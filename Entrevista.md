@@ -4,7 +4,7 @@ Criação de um repositório para um sistema de estacionamento
 ## Lista das perguntas da Entrevista
 
 1. Com que frequência você usa estacionamento e em que situação (trabalho, shopping, hospital)?
-
+> Frequência e situação "Uso quase todo dia útil, pra trabalhar no centro. Fim de semana, de vez em quando em shopping ou quando vou a algum evento. Em dia de trabalho fico umas 8 horas; no shopping, 2 ou 3."
 2. Me conta a última vez que você teve um problema em um estacionamento. O que aconteceu?
 
 3. O que mais te irrita: fila na entrada, achar vaga, fila no caixa, preço ou segurança?
