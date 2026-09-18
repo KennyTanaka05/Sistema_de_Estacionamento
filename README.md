@@ -1,7 +1,7 @@
 # Sistema de Estacionamento
-## Criação de um repositório para um sistema de estacionamento
+Criação de um repositório para um sistema de estacionamento
 
-### Lista das perguntas da Entrevista
+## Lista das perguntas da Entrevista
 
 1. Com que frequência você usa estacionamento e em que situação (trabalho, shopping, hospital)?
 
