@@ -23,4 +23,3 @@ Criação de um repositório para um sistema de estacionamento
 
 10. Se eu só pudesse entregar 3 funcionalidades, quais você escolheria?
 
-
