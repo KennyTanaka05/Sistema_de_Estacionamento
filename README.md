@@ -4,6 +4,7 @@ Criação de um repositório para um sistema de estacionamento
 ##Lista das perguntas
 
 1)Com que frequência você usa estacionamento e em que situação (trabalho, shopping, hospital)?
+
 2)Me conta a última vez que você teve um problema em um estacionamento. O que aconteceu?
 3)O que mais te irrita: fila na entrada, achar vaga, fila no caixa, preço ou segurança?
 4)Como você escolhe hoje onde estacionar?
