@@ -1,8 +1,8 @@
 # Pesquisa de Software
 
-## Jump	Park 
+## 1. Jump	Park 
 https://www.jumppark.com.br/ 
-Sistema	em	dois	módulos:	aplicativo	para	a	operação	e	site	administrativo	para	a	gestão.
+.Sistema	em	dois	módulos:	aplicativo	para	a	operação	e	site	administrativo	para	a	gestão.
 - Controle	de	acesso	de	veículos
 - Tabela	de	preços	flexível	(rotativo,	mensalista	e	convênio)
 - Checklist	de	avaria
@@ -10,7 +10,7 @@ Sistema	em	dois	módulos:	aplicativo	para	a	operação	e	site	administrativo	par
 - Emissão	de	nota	fiscal
 - Integração	com	maquininha	de	cartão
 
-## WPS	Brasil 
+## 2. WPS	Brasil 
 https://blog.wpsbrasil.com/reconhecimento-de-placas-para-estacionamentos/ 
 - Solução	corporativa	centrada	em	reconhecimento	de	placas. 
 - Entrada	sem	cartão	ou	ticket	para	mensalistas 
@@ -20,7 +20,7 @@ https://blog.wpsbrasil.com/reconhecimento-de-placas-para-estacionamentos/
 - Integração	com	portais	(ex.:	universidades)
 - Consulta	de	saldo	de	créditos
 
-## Autopark
+## 3. Autopark
 https://autopark.com.br/novos-modelos-estacionamento/ 
 - Gestão	terceirizada	de	estacionamentos	com	plataforma	digital. 
 - Controle	de	acesso	por	placa 
