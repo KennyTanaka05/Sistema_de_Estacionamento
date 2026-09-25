@@ -14,28 +14,23 @@ O **Sistema de Estacionamento** foi desenvolvido para automatizar e otimizar o c
 
 | Nome | RM | GitHub / Perfil |
 | :--- | :---: | :---: |
-| **Guilherme da Cunha** | `567633` | [@github](https://github.com/) |
-| **Kenny Tanaka** | `567742` | [@github](https://github.com/) |
-| **Pedro Moisés Pereira da Silva** | `567206` | [@github](https://github.com/) |
-| **William Cardoso** | `567157` | [@github](https://github.com/) |
-| **Tomás Marques** | `567296` | [@github](https://github.com/) |
+| **Guilherme da Cunha** | `567633` |
+| **Kenny Tanaka** | `567742` |
+| **Pedro Moisés Pereira da Silva** | `567206` |
+| **William Cardoso** | `567157` |
+| **Tomás Marques** | `567296` |
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem:** *(ex: Python, Java, C#, C++)*
-- **Banco de Dados:** *(ex: MySQL, PostgreSQL, SQLite)*
-- **Ferramentas:** Git, VS Code
+- **Linguagem:**
+- **Banco de Dados:**
+- **Ferramentas:**
 
 ---
 
 ## ⚙️ Funcionalidades
-
-- [x] Registro de entrada e saída de veículos
-- [ ] Cálculo automático do valor da estadia
-- [ ] Consulta de vagas disponíveis
-- [ ] Emissão de relatórios simples
 
 ---
 
