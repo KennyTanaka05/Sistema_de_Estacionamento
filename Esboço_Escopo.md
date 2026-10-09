@@ -4,16 +4,15 @@
 # 2. Nossa ideia
   Separar o pátio pelo tempo que o motorista vai ficar: quem fica pouco estaciona perto da saída e quem fica o dia todo vai para o fundo. Quem estacionar na zona indicada ganha os primeiros 15 minutos grátis.
 # 3. Como funciona
-  1. Na entrada, a câmera lê a placa e o totem pergunta quanto tempo o motorista vai ficar.
-  2. O totem mostra a zona e o corredor, por exemplo "Zona B, corredor 4".
-3. O motorista estaciona e lê com o celular o QR Code do pilar da vaga.
-4. Na volta, ele vê na mesma página onde o carro está e paga por Pix ou cartão.
-5. Na saída, a câmera lê a placa e a cancela abre.
-Não tem aplicativo para baixar. O QR Code abre uma página do estacionamento no celular,
-do mesmo jeito que o cardápio de restaurante.
-4. Requisitos
-• RF01: ler a placa na entrada e na saída.
-• RF02: perguntar o tempo de permanência e indicar a zona.
+  - **Na entrada, a câmera lê a placa e o totem pergunta quanto tempo o motorista vai ficar.**
+  - **O totem mostra a zona e o corredor, por exemplo "Zona B, corredor 4".**
+  - **O motorista estaciona e lê com o celular o QR Code do pilar da vaga.**
+  - **Na volta, ele vê na mesma página onde o carro está e paga por Pix ou cartão.**
+  - **Na saída, a câmera lê a placa e a cancela abre.**
+    Na falta do aplicativo no celular. O QR Code abre uma página do estacionamento na WEB, do mesmo jeito que o cardápio de restaurante.
+# 4. Requisitos
+>ler a placa na entrada e na saída.
+>• RF02: perguntar o tempo de permanência e indicar a zona.
 • RF03: check-in na vaga pelo QR Code.
 • RF04: mapa com as vagas livres e ocupadas.
 • RF05: mostrar onde o carro está.
