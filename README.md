@@ -33,15 +33,6 @@ O **Sistema de Estacionamento** foi desenvolvido para automatizar e otimizar o c
 ## ⚙️ Funcionalidades
 
 ---
+<img width="1439" height="541" alt="image" src="https://github.com/user-attachments/assets/03b85d4e-d6e8-49b4-a43e-21fe763a524e" />
 
-## 🚀 Como Executar o Projeto
 
-```bash
-# 1. Clone este repositório
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-
-# 2. Acesse a pasta do projeto
-cd seu-repositorio
-
-# 3. Execute o projeto (exemplo)
-python main.py
