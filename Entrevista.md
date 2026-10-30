@@ -31,4 +31,4 @@ Criação de um repositório para um sistema de estacionamento
 > "Por fração de 15 minutos. Hora cheia é o que mais irrita: fico 1h05 e pago 2 horas. Se eu vou ficar o dia todo, aí prefiro diária com preço fechado."
 
 10. Se eu só pudesse entregar 3 funcionalidades, quais você escolheria?
-> As 3 funcionalidades
+> As 3 funcionalidades seriam, a leitura da placa, pagamento via PIX ou cartão e um sistema de aviso sobre o termino do vaga
