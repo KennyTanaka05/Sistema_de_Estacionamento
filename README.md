@@ -29,7 +29,22 @@ O **Sistema de Estacionamento** foi desenvolvido para automatizar e otimizar o c
 - **Ferramentas:** GitHub, Ec2 aws, rds aws, ebs aws, Amazon cognito
 
 ---
+## 📂 Documentos do Projeto
 
+| Etapa | Arquivo |
+| :--- | :--- |
+| Pesquisa de mercado (benchmarking de sistemas) | [`Pesquisa.md`](Pesquisa.md) |
+| Lista geral de recursos extraída da pesquisa | [`Lista_de_Recursos.md`](Lista_de_Recursos.md) |
+| Entrevista com o consumidor | [`Entrevista.md`](Entrevista.md) |
+| Observação de campo e gargalo dos manobristas | [`Observacao.md`](Observacao.md) |
+| Esboço do projeto | [`Esboço_Escopo.md`](Esboço_Escopo.md) |
+| Requisitos RF, RNF e RG, classificação FURPS e rastreabilidade | [`Requisitos.md`](Requisitos.md) |
+| Protótipo das telas (Pencil) | [`Prototipagem_Certa.md`](Prototipagem_Certa.md) |
+| Ata da reunião com o cliente | [`Ata_Reuniao.md`](Ata_Reuniao.md) |
+| Modelo BPMN no Bizagi | [`modelo do estacionamento.bpm`](modelo%20do%20estacionamento.bpm) |
+| Storyboard da entrada de veículos | [`Storyboard_Entrada_Estacionamento.pptx`](Storyboard_Entrada_Estacionamento.pptx) |
+
+---
 ## Imagem do Modelo do estacionamento.bpm
 
 <img width="1439" height="541" alt="image" src="https://github.com/user-attachments/assets/03b85d4e-d6e8-49b4-a43e-21fe763a524e" />
