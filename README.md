@@ -26,7 +26,7 @@ O **Sistema de Estacionamento** foi desenvolvido para automatizar e otimizar o c
 
 - **Linguagem:** Java, Python
 - **Banco de Dados:** MySQL
-- **Ferramentas:** GitHub, Ec2 aws, rds aws, ebs aws. Amazon cognito
+- **Ferramentas:** GitHub, Ec2 aws, rds aws, ebs aws, Amazon cognito
 
 ---
 
