@@ -12,8 +12,8 @@ O **Sistema de Estacionamento** foi desenvolvido para automatizar e otimizar o c
 
 ## 👥 Integrantes do Grupo
 
-| Nome | RM | GitHub / Perfil |
-| :--- | :---: | :---: |
+| Nome | RM |
+| :--- | :---: |
 | **Guilherme da Cunha** | `567633` |
 | **Kenny Tanaka** | `567742` |
 | **Pedro Moisés Pereira da Silva** | `567206` |
