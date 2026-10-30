@@ -24,9 +24,9 @@ O **Sistema de Estacionamento** foi desenvolvido para automatizar e otimizar o c
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem:**
-- **Banco de Dados:**
-- **Ferramentas:**
+- **Linguagem:** Java, Python
+- **Banco de Dados:** MySQL
+- **Ferramentas:** GitHub
 
 ---
 
